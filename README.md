@@ -7,4 +7,5 @@
   - node notify.js を実行
 
 - notify.py の使い方
+  - 7,8 行目を編集する
   - python3 notify.py を実行
