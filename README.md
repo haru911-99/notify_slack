@@ -1,4 +1,4 @@
-# notify_something
+# notify_slack
 
 - notify.js の使い方
 
